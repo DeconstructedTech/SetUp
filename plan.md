@@ -38,6 +38,9 @@ Wendy Holley
 
 #Needed
 
+- Host it on DreamHost
+- Wordpress site
+
 - About Us Post
 - Create the web site (Kasey)
    - Logo
