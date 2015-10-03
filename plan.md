@@ -38,12 +38,19 @@ Wendy Holley
 
 #Needed
 
-- Host it on DreamHost
-- Wordpress site
+- Host it on Github
+- Jekyll site
 
 - About Us Post
 - Create the web site (Kasey)
    - Logo
    - Blog post page
    - List of pages
-- Host it on Wordpress and redirect to our site as alias
+- DNS server
+
+#October plans
+- Create Jekyll page
+- Set up DNS to point our Jekyll to deconstructedtech.com
+- Create About Us page
+  - Together - what the site is about
+  - Each - about us page
